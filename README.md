@@ -2,11 +2,16 @@
 
 This sample project exhibits a server to store and query SBOM CycloneDX documents.
 
+# Requirements
+
+* Java 17 or later
+* Gradle 7.5+
+
 ## Feature roadmap
 
 * REST document uploads and downloads
 * SBOM format validation
-* Support for complex queries
+* Support for complex queries (e.g. GraphQL)
 * WebDAV support
 
 # Developer's corner
